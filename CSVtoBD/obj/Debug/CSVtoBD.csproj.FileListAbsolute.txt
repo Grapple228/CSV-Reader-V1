@@ -1,0 +1,42 @@
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSVtoBD.exe.config
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSVtoBD.exe
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSVtoBD.pdb
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.AssemblyReference.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.Properties.Resources.resources
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.GenerateResource.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.exe
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.pdb
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.dll
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.xml
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CopyComplete
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.Main_Form.resources
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\bin\Debug\CSVtoBD.exe.config
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\bin\Debug\CSVtoBD.exe
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\bin\Debug\CSVtoBD.pdb
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.dll
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.xml
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.AssemblyReference.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.Main_Form.resources
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.Properties.Resources.resources
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.GenerateResource.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CopyComplete
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.exe
+C:\Users\green\Desktop\Проекты\Контур-Кузбасс C# Тестовое задание\БЭКАП\Solution\CSVtoBD\obj\Debug\CSVtoBD.pdb
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSV reader.exe.config
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSV reader.exe
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\CSV reader.pdb
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.dll
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\bin\Debug\System.Data.SqlClient.xml
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.AssemblyReference.cache
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.Main_Form.resources
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.Properties.Resources.resources
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.GenerateResource.cache
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSVtoBD.csproj.CopyComplete
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSV reader.exe
+C:\Users\green\Desktop\Проекты\C#\Контур-Кузбасс C# Тестовое задание\Solution\CSVtoBD\obj\Debug\CSV reader.pdb
